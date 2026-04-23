@@ -12,4 +12,4 @@ for (int i = 1; i < 5; i++)
     if (cisla[i] > max) max = cisla[i];
 }
 
-Console.WriteLine("Nejvyšší hodnota je: " + max);
+Console.WriteLine($"Nejvyšší hodnota je:  +  {max}");
